@@ -1,3 +1,5 @@
+import {koalas} from './koalas.js'
+// import {renderKoalaList} from './koalaList.js'
 
 let activeKoala = null
 
